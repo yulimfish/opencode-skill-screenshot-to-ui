@@ -25,10 +25,10 @@ A skill for [opencode](https://github.com/opencode-ai/opencode) that turns a des
 
 ## Install
 
-Via [opencode-codex-kit](https://github.com/Yulimfish/opencode-codex-kit):
+Via [opencode-workflow-kit](https://github.com/Yulimfish/opencode-workflow-kit):
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Yulimfish/opencode-codex-kit/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Yulimfish/opencode-workflow-kit/main/install.sh | bash
 ```
 
 Or manually:
